@@ -1,4 +1,4 @@
-import numpy as np
+heyyyyimport numpy as np
 
 #creating an array
 
